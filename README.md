@@ -92,9 +92,9 @@ This will output three dictionaries in the terminal and generate a new Excel fil
 ## 📊 Sample Output
 
 ```
-{'Supplier A': 5, 'Supplier B': 3, 'Supplier C': 7}
-{'Supplier A': 2240.0, 'Supplier B': 910.0, 'Supplier C': 3375.0}
-{2345: 5, 3456: 3, 9876: 9}
+{'AAA Company': 43, 'BBB Company': 17, 'CCC Company': 14}
+{'AAA Company': 10969059.95, 'BBB Company': 2375499.47, 'CCC Company': 8114363.62}
+{25: 7, 30: 6, 74: 2}
 ```
 
 ---
